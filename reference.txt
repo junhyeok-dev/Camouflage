@@ -1,0 +1,14 @@
+01. Using Blockchain to Rein in the New Post-Truth World and Check the Spread of Fake News
+https://ieeexplore.ieee.org/document/8764081
+
+02. Partial encryption of compressed images and videos
+https://ieeexplore.ieee.org/document/852023
+
+03. Tampering Detection in Compressed Digital Video Using Watermarking
+https://ieeexplore.ieee.org/document/6728625
+
+04. Robust video fingerprinting for content-based video identification
+10.1109/TCSVT.2008.920739
+
+05. Spatio–Temporal Transform Based Video Hashing
+https://ieeexplore.ieee.org/document/4014210
