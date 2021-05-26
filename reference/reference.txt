@@ -12,3 +12,9 @@ https://ieeexplore.ieee.org/document/6728625
 
 05. Spatio–Temporal Transform Based Video Hashing
 https://ieeexplore.ieee.org/document/4014210
+
+06. A Survey of H.264 AVC/SVC Encryption
+https://ieeexplore.ieee.org/document/5955103
+
+07. Robust Video Watermarking of H.264/AVC
+https://ieeexplore.ieee.org/document/4100886
